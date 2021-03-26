@@ -18,15 +18,19 @@ Here I store all the code alongs from the Bootcamp + my own overviews and cheat 
 - Git/Terminal/Command Line
 - GitHub
 <br>
+
 **Day 2**
 - Pandas
 - Virtual Environments
 <br>
+
 **Day 3**
 - RegEx
 <br>
+
 **Day 4**
 - EDA
 <br>
+
 **Day 5**
 - ?
